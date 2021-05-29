@@ -1,6 +1,5 @@
-import React from 'react';
-import logo from './t.png';
-import './App.css';
+import logo from './images/t.png';
+import './styles/App.css';
 
 function App() {
   return (
